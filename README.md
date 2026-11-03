@@ -4,8 +4,8 @@
 **Institution:** Adventist University of Central Africa (AUCA)  
 
 ## Group Members
-* **Student 1:** Rugira Gyslain (ID: [Insert ID])
-* **Student 2:** [Insert Name] (ID: [Insert ID])
+* **Student 1:** Rugira Gyslain (ID: [20251IMA019])
+* **Student 2:** Mutarutwa Ketsia (ID: [26701])
 
 ## Application Description
 This Oracle PL/SQL application manages employee records, department payrolls, and performance-based bonuses. It demonstrates advanced database programming techniques, including:
